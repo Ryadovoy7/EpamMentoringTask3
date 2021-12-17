@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomerExtensions.cs" />
     <Compile Include="EpamSamples.cs" />
     <Compile Include="Data\Customer.cs" />
     <Compile Include="Data\DataSource.cs" />
